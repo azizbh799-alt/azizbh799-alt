@@ -1,61 +1,80 @@
-# Hi, I'm Mohamed Aziz Becheikh 👋
+# 👋 Hi, I'm Mohamed Aziz Becheikh
 
-### Cloud & DevSecOps Engineer | Full Stack Developer
+<div align="center">
 
-🎓 Engineering student at **TEK-UP University of Digital Sciences**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevSecOps+Engineer;Full+Stack+Developer;AWS+%7C+Kubernetes+%7C+Terraform;Docker+%7C+CI%2FCD+%7C+Cloud+Security" />
 
-☁️ Interested in **Cloud Computing, DevOps, DevSecOps & Cloud Security**
-
-💻 Full Stack development with **Java, Spring Boot, Angular & Node.js**
-
-🚀 Currently working with **AWS, Kubernetes, Terraform, Docker & CI/CD**
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+<div align="center">
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud • ⚙️ DevOps • 🔐 DevSecOps • 💻 Full Stack
 
-* AWS
-* Amazon EKS
-* Kubernetes
-* Terraform
-* Docker
-* GitLab CI/CD
-* GitHub Actions
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,gitlab,github" />
 
-### 🔐 DevSecOps & Security
+<br/>
 
-* SonarQube
-* Trivy
-* IAM
-* AWS WAF
-* Cloud Security
-* Linux
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,python,php,js,mongodb,mysql,postgres" />
 
-### 📊 Monitoring
+</div>
 
-* Prometheus
-* Grafana
-* Alertmanager
+---
+
+## 🚀 About Me
+
+🎓 Engineering student at **TEK-UP University of Digital Sciences**
+
+☁️ Focused on **Cloud Computing, DevOps, DevSecOps & Cloud Security**
+
+💻 Full Stack Developer with experience in **Java, Spring Boot, Angular and Node.js**
+
+🚀 Building and deploying cloud-native applications with **AWS, Kubernetes, Terraform and Docker**
+
+🔐 Interested in **Cloud Security and secure CI/CD pipelines**
+
+---
+
+## ⚡ Current Focus
+
+```text
+☁️ AWS
+   ↓
+🐳 Docker
+   ↓
+☸️ Kubernetes / EKS
+   ↓
+🏗️ Terraform
+   ↓
+🔄 CI/CD
+   ↓
+🔐 DevSecOps
+   ↓
+📊 Prometheus + Grafana
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux" />
+
+### 🔄 DevOps & DevSecOps
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+
+**SonarQube · Trivy · Prometheus · Grafana · Alertmanager**
 
 ### 💻 Development
 
-* Java
-* Spring Boot
-* Node.js
-* Angular
-* JavaScript
-* Python
-* PHP
-* C#
-* REST APIs
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,python,php,js" />
 
 ### 🗄️ Databases
 
-* PostgreSQL
-* MySQL
-* MongoDB
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
 ---
 
@@ -63,51 +82,98 @@
 
 ### 🔐 End-to-End DevSecOps on AWS EKS
 
-Full DevSecOps workflow for deploying and monitoring a Node.js application on Amazon EKS.
+```text
+GitLab
+   ↓
+CI/CD
+   ↓
+SonarQube + Trivy
+   ↓
+Docker
+   ↓
+AWS EKS
+   ↓
+Kubernetes
+   ↓
+Prometheus + Grafana
+```
 
-**Stack:**
-AWS EKS · Kubernetes · Terraform · Docker · GitLab CI/CD · SonarQube · Trivy · Prometheus · Grafana · Alertmanager
-
-🔗 [View Project](https://gitlab.com/devsecops-project8581636/end-to-end-devsecops-project)
+🔗 **[View Project](https://gitlab.com/devsecops-project8581636/end-to-end-devsecops-project)**
 
 ---
 
-### ☸️ Kubernetes & AWS EKS Deployment
+### ☸️ Kubernetes & AWS EKS
 
-Full Stack application containerized with Docker and deployed on Amazon EKS with Kubernetes, NGINX Ingress and AWS Load Balancing.
+Full Stack application containerized with Docker and deployed on Amazon EKS.
 
-**Stack:**
-AWS · EKS · Kubernetes · Docker · NGINX · VPC · AWS Load Balancer
+**AWS EKS · Kubernetes · Docker · NGINX · VPC · AWS Load Balancer**
 
 ---
 
 ### 📦 E-Kanban RFID & Intelligent WMS
 
-Final-year project focused on integrating an RFID-based E-Kanban process into an intelligent Warehouse Management System.
+Final-year project integrating an RFID-based E-Kanban process into an intelligent WMS.
 
-**Stack:**
-Java · Spring · RFID · WMS · REST API · Scrum
+**Java · Spring · RFID · REST API · WMS · Scrum**
 
 ---
 
 ## 📚 Currently Learning
 
-* AWS Cloud Practitioner
-* AWS Solutions Architect
-* RHCSA
-* RHCE
-* Kubernetes
-* Terraform
-* Cloud Security
-* DevSecOps
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=redhat,aws,kubernetes,terraform" />
+
+### RHCSA • RHCE • AWS Cloud Practitioner • AWS Solutions Architect
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=azizbh799-alt&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azizbh799-alt&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizbh799-alt&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Mohamed Aziz Becheikh](https://www.linkedin.com/in/azizbechikh/)
-* 📂 GitLab: [azizbh799-alt](https://gitlab.com/devsecops-project8581636)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/azizbechikh/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://gitlab.com/devsecops-project8581636">
+<img src="https://img.shields.io/badge/GitLab-Projects-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+<div align="center">
+
+### 💡 Building. Automating. Securing. Scaling.
+
+<img src="https://komarev.com/ghpvc/?username=azizbh799-alt&style=flat-square&color=blue" />
+
+</div>
